@@ -1,2 +1,1 @@
-# Minecraft-Mod-1.16.5
-This repository is for making a minecraft mod!
+THIS IS A REPOSITORY FOR ONLY MINECRAFT 1.16.5 MOD MADE FROM FORGE.
